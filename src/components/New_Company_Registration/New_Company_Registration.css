@@ -1,0 +1,36 @@
+.main{
+    text-align: center;
+    margin: 42px 400px;
+    padding-bottom: 40px;
+    padding-top: 3px;
+    border-radius: 10px;
+    background-color: white;
+}
+input{
+    width: 17rem;
+    padding: 8px;
+    border-radius: 5px;
+}
+select{
+    width: 0rem;
+    padding: 8px;
+    border-radius: 5px;
+}
+button{
+    width: 292px;
+    padding: 8px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+h2{
+    color: red;
+}
+body{
+    background-color: whitesmoke;
+}
+
+
+
+
+
+
